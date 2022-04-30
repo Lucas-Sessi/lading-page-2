@@ -301,7 +301,7 @@ span {
     white-space: pre;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 375px) {
     header {
         width: 100%;
         height: 400px;
